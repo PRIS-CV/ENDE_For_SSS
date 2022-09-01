@@ -1,5 +1,5 @@
 # ENDE-GNN
-Codes released for the paper: "ENDE-GNN: An Encoder-decoder GNN Framework for Sketch Semantic Segmentation" (IEEE VCIP 2022)
+Code release for the paper: "ENDE-GNN: An Encoder-decoder GNN Framework for Sketch Semantic Segmentation" (IEEE VCIP 2022)
 
 ## Requirments
 
@@ -20,7 +20,7 @@ If it is helpful for your work, please cite this paper:
 ```
 
 ## References
-Thanks for Yang's contributions. Our codes are based on [SketchGNN](https://github.com/sYeaLumin/SketchGNN).
+Our codes are based on SketchGNN(https://github.com/sYeaLumin/SketchGNN).
 
 ## License
 
