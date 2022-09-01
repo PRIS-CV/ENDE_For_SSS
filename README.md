@@ -20,7 +20,7 @@ If it is helpful for your work, please cite this paper:
 ```
 
 ## References
-Our codes are based on SketchGNN(https://github.com/sYeaLumin/SketchGNN).
+Our codes are based on [SketchGNN](https://github.com/sYeaLumin/SketchGNN).
 
 ## License
 
